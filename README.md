@@ -1,1 +1,1 @@
-# Practicing leet code to improve my skills
+# Practicing Leet Code to improve my skills
